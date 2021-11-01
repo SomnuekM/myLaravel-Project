@@ -10,11 +10,11 @@
 ## Install & Run
 
 ```
-git clone 
+git clone https://github.com/SomnuekM/myLaravel-Project.git
 ```
 
 ```
-cd 
+cd myLaravel-Project
 ```
 
 ```
