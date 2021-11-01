@@ -30,6 +30,8 @@ php artisan serve
 ```
 Holding down the Ctrl button and Clicking the localhost http://127.0.0.1:8000/ will serve our app in our default browser
 
+![image](https://user-images.githubusercontent.com/58202287/139631518-2d05458e-a31d-42a7-939a-8601e6f48b26.png)
+
 
 ## About Laravel
 
