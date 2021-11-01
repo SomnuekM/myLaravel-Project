@@ -21,6 +21,16 @@ cd myLaravel-Project
 npm install & npm run dev
 ```
 
+```
+php artisan migrate
+```
+
+```
+php artisan serve
+```
+Holding down the Ctrl button and Clicking the localhost http://127.0.0.1:8000/ will serve our app in our default browser
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
